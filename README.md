@@ -1,5 +1,5 @@
 # 2---VBA-challenge
-2 - VBA challenge UoB
+
 This repository contains:
  1. Screenshots of the stocks file sheet post macro
  2. A .txt file containing my finished code for assignment 2 - VBA 
